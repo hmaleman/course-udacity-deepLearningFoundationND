@@ -5,4 +5,4 @@ Learn about linear regression and logistic regression models. These simple machi
 ### Lesson 7 - Intro to Neural Networks
 Intro on Logistic Regression and Neural Networks. Implementation of Gradient Descent and Backpropagation.
 ### Lesson 8 - Neural Nets
-- Project 1: Your first Neural Network
+- Project 1: Your first Neural Network - Build a Neural Network with Numpy (without library support) defining "by hand" forward pass and backward propagation pass. Tune the model's hyperparemeters.
